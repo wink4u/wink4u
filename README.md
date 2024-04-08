@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![승현's GitHub stats](https://github-readme-stats.vercel.app/api?username=wink4u&show_icons=true&theme=radical)
 <!--
 **wink4u/wink4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
